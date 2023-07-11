@@ -58,7 +58,7 @@ note’s text in the right-hand column
   * Ensure you are running Node.js v16.  
   * Clone the repository.
   ```
-    git clone git@github.com:erin-m-keller/keller-note-tracker.git
+    git clone git@github.com:Dhatton01/Note-Taker-redo.git
   ```
   * Install the dependencies.
   ```bash
@@ -72,10 +72,10 @@ note’s text in the right-hand column
 
 ## Screenshot
 
-![NoteTakerScreenshot](./public/images/finished-product.png)
+![NoteTakerScreenshot](./public/assets/images/finished-product.png)
 
-![NoteTakerScreenshot2](./public/images/finished-product2.png)
+![NoteTakerScreenshot2](./public/assets/images/finished-product2.png)
 
 ## Deployed page
 
-[View Published Page]()
+[View Published Page](https://note-taker-redo-707e349fe819.herokuapp.com/)
